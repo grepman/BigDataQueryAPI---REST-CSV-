@@ -5,7 +5,7 @@ In this contribution I'm gonna tell you how I generated Real Time Big Data.(Time
 
 > Quick view @ [Demo here ](http://bluearth.in/pykih/polldata) 
 
-<div style="text-align:center"><img src ="http://checkthiscloud.com/admin/github/BigData/1.png" style="width:30%" />
+<div style="text-align:center"><img src ="http://checkthiscloud.com/admin/github/BigData1/1.png" style="width:30%" />
 
 </div>
 
@@ -36,8 +36,8 @@ Explanation :
 
 7. Using this Methodology You can Generate 17,280 real time Data Points from One Node in One day, If you wish you can go further <Max to 9 nodes for 1GB RAM PHP SERVER>
 
-<img src ="http://checkthiscloud.com/admin/github/BigData/2.png" style="width:30%" />
-<img src ="http://checkthiscloud.com/admin/github/BigData/3.png" style="width:30%" />
+<img src ="http://checkthiscloud.com/admin/github/BigData1/2.png" style="width:30%" />
+<img src ="http://checkthiscloud.com/admin/github/BigData1/3.png" style="width:30%" />
 
 
 
