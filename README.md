@@ -2,6 +2,13 @@
 
 In this contribution I'm gonna tell you how I generated Real Time Big Data.(Time Series)
 
+> Quick view @ [Demo here ](http://bluearth.in/pykih/polldata) 
+
+<div style="text-align:center"><img src ="http://checkthiscloud.com/admin/github/BigData/1.png" />
+<img src ="http://checkthiscloud.com/admin/github/BigData/2.png" />
+<img src ="http://checkthiscloud.com/admin/github/BigData/3.png" />
+</div>
+
 # So What is Big Data?
 Extremely large data sets that may be analysed computationally to reveal patterns, trends, and associations, especially relating to human behaviour and interactions.
 
