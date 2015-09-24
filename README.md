@@ -16,12 +16,19 @@ Timeseries
 # So How can someone Generate Real Time Big Data ?
 Explanation :
 1. Generate a Curl Script Executing (GET), to scrape the url where you have a PHP Script Running.
+
 2. In the GET PHP Script (The Scrapped One) enter Data to a Data Base, 
+
 3. You can choose the execution speed (In my case I delay my For Loop with 4 Sec. for real time simulation of my data entry every 4 sec's into my dataBase (MySQL))
+
 4. So My PHP Script is iterating 12 times with a delay of 4 sec's in a <b>Minute</b>
+
 5. What needs to be taken care is Put a cron job Inside the Server Shell which runs every <b>1 Minute</b> to simulate real time Situation and avoid Script Overloading in the Server which you are using.
+
 6. Generate as much ITERATION + PUB/SUB Data ID's for Simulation of Real Time Big Data
+
 7. Using this Methodology You can Generate 17,280 real time Data Points from One Node in One day, If you wish you can go further <Max to 9 nodes for 1GB RAM PHP SERVER>
+
 
 
 
