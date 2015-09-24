@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule ^polldata/([0-9]+)$ polldata.php?id=$1 [R]
